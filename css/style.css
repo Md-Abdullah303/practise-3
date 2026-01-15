@@ -345,7 +345,8 @@ footer {
         align-items: center;
     }
 
-    .section-heading p {
+    .section-heading p,
+    .footer-container p {
         width: 280px;
     }
     .featured-item p{
@@ -392,6 +393,13 @@ footer {
         width: 250px;
     }
     #getDeal{
-        padding: 50px 0;
+        padding: 40px 0;
+    }
+    footer{
+        padding-top: 60px ;
+        padding-bottom: 10px;
+    }
+    #copy-right{
+        font-size: 12px;
     }
 }
